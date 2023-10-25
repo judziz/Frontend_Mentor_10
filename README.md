@@ -3,7 +3,7 @@
 | Useful Links  |
 | ----------------- |
 [Assignement Link](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
-[Vercel Link - Desktop version](https://frontend-mentor-03.vercel.app/)
+[Vercel Link - Desktop version](https://frontend-mentor-10-phi.vercel.app/)
 
 ---
 
